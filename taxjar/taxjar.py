@@ -1,8 +1,8 @@
 import re
 import logging
 
-from client import Client
-from structures import *
+from taxjar.client import Client
+from taxjar.structures import *
 
 logger = logging.getLogger(__name__)
 
